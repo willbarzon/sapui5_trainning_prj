@@ -1,1 +1,0 @@
-# sapui5_trainning_prj
