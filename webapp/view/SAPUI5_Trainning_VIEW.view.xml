@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sapui5trainningprj.controller.SAPUI5_Trainning_VIEW" displayBlock="true">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <Button xmlns="sap.m" text="Button" id="button0"/>
+        </content>
+    </Page>
+</mvc:View>
